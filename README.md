@@ -33,6 +33,7 @@ Both will output `camel Cased String`. You can then add additional filters to ap
 ## Credits
 
 * [Jason McCallister](https://github.com/themccallister)
+* [Mitchell Harris](https://github.com/mitchwh)
 
 ## About Venveo
 
