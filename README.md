@@ -1,6 +1,6 @@
 # Camel Space Craft CMS Plugin
 
-Easily convert camel spaced strings to strings with spaces
+Easily convert camel spaced strings to strings with spaces. So this 'camelSpacedStringThatNeedsSpaces' would be converted to this 'camel Spaced String That Needs Spaces'.
 
 ## Installation
 
