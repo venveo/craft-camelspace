@@ -1,0 +1,14 @@
+{
+	"name": "venveo/craft-camelspace",
+	"description": "Convert camelCased strings to spaces",
+	"type": "craft-plugin",
+	"authors": [
+		{
+			"name": "Venveo",
+			"homepage": "https://www.venveo.com"
+		}
+	],
+	"require": {
+		"composer/installers": "~1.0"
+	}
+}
